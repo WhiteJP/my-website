@@ -139,7 +139,7 @@ params:
       disqus:
         enable: no
         shortname: ''
-      enable: yes
+      enable: no
       facebook:
         appId: ''
         enable: no
