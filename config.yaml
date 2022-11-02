@@ -1,0 +1,424 @@
+baseURL: https://joshuapwhite.com
+theme: LoveIt
+title: Joshua P White
+defaultContentLanguage: en
+languageCode: en
+languageName: English
+hasCJKLanguage: no
+paginate: 12
+googleAnalytics: ''
+copyright: ''
+enableRobotsTXT: yes
+enableGitInfo: yes
+enableEmoji: yes
+ignoreErrors:
+  - error-remote-getjson
+  - error-missing-instagram-accesstoken
+author:
+  email: 'joshua.white@outlook.com'
+  link: 'https://joshuapwhite.com'
+  name: Joshua P White
+menu:
+  main:
+    - identifier: research
+      name: Research
+      post: ''
+      pre: ''
+      title: ''
+      url: /research/
+      weight: 1 
+    - identifier: posts
+      name: Blog    
+      post: ''
+      pre: ''
+      title: ''
+      url: /posts/
+      weight: 2
+    - identifier: cv
+      name: CV
+      post: ''
+      pre: ''
+      title: ''
+      url: /cv/joshua-white-cv.pdf
+      weight: 3
+    - identifier: about
+      name: About
+      post: ''
+      pre: ''
+      title: ''
+      url: /about/
+      weight: 4
+    - identifier: github
+      name: ''
+      post: ''
+      pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
+      title: GitHub
+      url: https://github.com/WhiteJP/my-website
+      weight: 6
+params:
+  analytics:
+    enable: no
+    fathom:
+      id: ''
+      server: ''
+    google:
+      anonymizeIP: yes
+      id: ''
+    plausible:
+      dataDomain: ''
+    yandexMetrica:
+      id: ''
+  app:
+    iconColor: '#5bbad5'
+    noFavicon: no
+    svgFavicon: ''
+    themeColor: '#ffffff'
+    tileColor: '#da532c'
+    title: LoveIt
+  cdn:
+    data: jsdelivr.yml
+  compatibility:
+    objectFit: no
+    polyfill: no
+  cookieconsent:
+    content:
+      dismiss: ''
+      link: ''
+      message: ''
+    enable: no
+  dateFormat: '2006-01-02'
+  defaultTheme: auto
+  description: JPW's Personal Website
+  fingerprint: ''
+  footer:
+    author: yes
+    copyright: yes
+    custom: ''
+    enable: yes
+    hugo: yes
+    icp: ''
+    license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/"
+      target="_blank">CC BY-NC 4.0</a>
+    since: 2019
+  gitRepo: https://github.com/WhiteJP/my-website
+  header:
+    desktopMode: fixed
+    mobileMode: auto
+    title:
+      logo: ''
+      name: Joshua P White
+      post: <i class="fa-solid fa-code"></i>
+      pre: <i class="fa-sharp fa-solid fa-graduation-cap"></i>
+      typeit: no
+  home:
+    posts:
+      enable: no
+      paginate: 6
+    profile:
+      avatarURL: pic_square.jpg
+      disclaimer: ''
+      enable: yes
+      gravatarEmail: ''
+      social: yes
+      subtitle: Data Scientist. Cognitive Scientist. PhD Applicant. 
+      title: 'Joshua P White'
+      typeit: yes
+    rss: 10
+  images: /logo.png
+  list:
+    dateFormat: 01-02
+    paginate: 20
+    rss: 10
+  page:
+    code:
+      copy: yes
+      maxShownLines: 50
+    comment:
+      commento:
+        enable: no
+      disqus:
+        enable: no
+        shortname: ''
+      enable: yes
+      facebook:
+        appId: ''
+        enable: no
+        languageCode: ''
+        numPosts: 10
+        width: 100%
+      giscus:
+        category: Announcements
+        categoryId: ''
+        darkTheme: dark
+        emitMetadata: '0'
+        enable: no
+        inputPosition: bottom
+        lang: ''
+        lazyLoading: no
+        lightTheme: light
+        mapping: pathname
+        reactionsEnabled: '1'
+        repo: ''
+        repoId: ''
+      gitalk:
+        clientId: ''
+        clientSecret: ''
+        enable: no
+        owner: ''
+        repo: ''
+      telegram:
+        color: ''
+        colorful: yes
+        dislikes: no
+        enable: no
+        height: ''
+        limit: 5
+        outlined: no
+        siteID: ''
+      utterances:
+        darkTheme: github-dark
+        enable: no
+        issueTerm: pathname
+        label: ''
+        lightTheme: github-light
+        repo: ''
+      valine:
+        appId: QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI
+        appKey: WBmoGyJtbqUswvfLh6L8iEBr
+        avatar: mp
+        emoji: ''
+        enable: yes
+        enableQQ: no
+        highlight: yes
+        lang: ''
+        meta: ''
+        pageSize: 10
+        placeholder: ''
+        recordIP: yes
+        serverURLs: https://leancloud.hugoloveit.com
+        visitor: yes
+    fontawesome: yes
+    fraction: yes
+    hiddenFromHomePage: no
+    hiddenFromSearch: no
+    library:
+      css: {}
+      js: {}
+    lightgallery: no
+    linkToMarkdown: yes
+    mapbox:
+      accessToken: pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ
+      darkStyle: mapbox://styles/mapbox/dark-v10?optimize=true
+      fullscreen: yes
+      geolocate: yes
+      lightStyle: mapbox://styles/mapbox/light-v10?optimize=true
+      navigation: yes
+      scale: yes
+    math:
+      blockLeftDelimiter: ''
+      blockRightDelimiter: ''
+      copyTex: yes
+      enable: no
+      inlineLeftDelimiter: ''
+      inlineRightDelimiter: ''
+      mhchem: yes
+    rssFullText: no
+    ruby: yes
+    seo:
+      images: []
+      publisher:
+        logoUrl: /images/avatar.png
+        name: xxxx
+    share:
+      Baidu: no
+      Blogger: no
+      Buffer: no
+      Evernote: no
+      Facebook: yes
+      Flipboard: no
+      HackerNews: yes
+      Instapaper: no
+      Line: yes
+      Linkedin: no
+      Mix: no
+      Odnoklassniki: no
+      Pinterest: no
+      Pocket: no
+      Reddit: no
+      Skype: no
+      Trello: no
+      Tumblr: no
+      Twitter: yes
+      VK: no
+      Weibo: yes
+      Whatsapp: no
+      Xing: no
+      enable: yes
+    toc:
+      auto: yes
+      enable: yes
+      keepStatic: no
+    twemoji: no
+  search:
+    absoluteURL: no
+    algolia:
+      appID: ''
+      index: ''
+      searchKey: ''
+    contentLength: 4000
+    enable: yes
+    highlightTag: em
+    maxResultLength: 10
+    placeholder: ''
+    snippetLength: 30
+    type: algolia
+  section:
+    dateFormat: 01-02
+    paginate: 20
+    rss: 10
+  seo:
+    image: /images/Apple-Devices-Preview.png
+    thumbnailUrl: /images/screenshot.png
+  social:
+    Angellist: ''
+    Bandcamp: ''
+    Behance: ''
+    Bilibili: ''
+    Bitbucket: ''
+    Codepen: ''
+    Deviantart: ''
+    Devto: ''
+    Discord: ''
+    DiscordInvite: ''
+    Douban: ''
+    Dribbble: ''
+    Email: 'joshua.white@outlook.com.au'
+    Facebook: ''
+    Fivehundredpx: ''
+    Flickr: ''
+    Foursquare: ''
+    FreeCodeCamp: ''
+    GitHub: 'WhiteJP'
+    Gitea: ''
+    Gitlab: ''
+    Goodreads: ''
+    Googlescholar: '9lD32xkAAAAJ'
+    HackTheBox: ''
+    Hackernews: ''
+    Instagram: ''
+    Jsfiddle: ''
+    Kaggle: ''
+    Keybase: ''
+    Kickstarter: ''
+    Lastfm: ''
+    Lichess: ''
+    Linkedin: ''
+    Mastodon: ''
+    Matrix: ''
+    MediaWiki: ''
+    Medium: ''
+    Mix: ''
+    ORCID: '0000-0003-3129-5473'
+    Odnoklassniki: ''
+    Patreon: ''
+    Paypal: ''
+    Pinterest: ''
+    Pleroma: ''
+    Plume: ''
+    Quora: ''
+    RSS: ''
+    Reddit: ''
+    Researchgate: 'Joshua-White-17'
+    RootMe: ''
+    Skype: ''
+    Slidershare: ''
+    Snapchat: ''
+    Soundcloud: ''
+    Spotify: ''
+    Stackoverflow: ''
+    Steam: ''
+    Strava: ''
+    Telegram: ''
+    Thingiverse: ''
+    Tumblr: ''
+    Twitch: ''
+    Twitter: 'J_P_White'
+    VK: ''
+    Vine: ''
+    Weibo: ''
+    Whatsapp: ''
+    Wordpress: ''
+    XMPP: ''
+    Xing: ''
+    Youtubechannel: ''
+    Youtubecustom: ''
+    Youtubelegacy: ''
+    Zhihu: ''
+  title: JPW
+  typeit:
+    cursorChar: '|'
+    cursorSpeed: 1000
+    duration: -1
+    speed: 100
+  verification:
+    baidu: ''
+    bing: ''
+    google: ''
+    pinterest: ''
+    yandex: ''
+markup:
+  goldmark:
+    extensions:
+      definitionList: yes
+      footnote: yes
+      linkify: yes
+      strikethrough: yes
+      table: yes
+      taskList: yes
+      typographer: yes
+    renderer:
+      unsafe: yes
+  highlight:
+    codeFences: yes
+    guessSyntax: yes
+    lineNos: yes
+    lineNumbersInTable: yes
+    noClasses: no
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+Permalinks:
+  posts: :filename
+privacy:
+  googleAnalytics: {}
+  twitter:
+    enableDNT: yes
+  youtube:
+    privacyEnhanced: yes
+mediaTypes:
+  text/plain:
+    suffixes: md
+outputFormats:
+  MarkDown:
+    isHTML: no
+    isPlainText: yes
+    mediaType: text/plain
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  page:
+    - HTML
+    - MarkDown
+  section:
+    - HTML
+    - RSS
+  taxonomy:
+    - HTML
+    - RSS
+  taxonomyTerm: HTML

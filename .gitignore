@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# don't include public docs of website or blogdown internal workings. 
+/blogdown/
+/public/
