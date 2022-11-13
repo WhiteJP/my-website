@@ -7,6 +7,8 @@ math:
   enable: true
 ---
 
+# About me
+
 I'm a Cognitive & Data Scientist who recently finished his Honours in Psychology at the
 University of Melbourne. I am seeking to undertake PhD studies to fulfill my long standing life
 ambition of joining the academy. I’m interested in using big data, computational
