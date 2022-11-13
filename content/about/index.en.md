@@ -21,7 +21,7 @@ prior to my career change to cognitive science, I was previously a litigation la
 Below is my visual resume made with the `VisualResume`
 [package](https://github.com/ndphillips/VisualResume).
 
-![](https://github.com/WhiteJP/CV/blob/master/man/figures/README-unnamed-chunk-2-1.png?raw=true)
+{{< figure src="https://github.com/WhiteJP/CV/blob/master/man/figures/README-unnamed-chunk-2-1.png?raw=true" title="VisualResume" >}}
 
 # About this website
 
