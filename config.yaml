@@ -41,13 +41,20 @@ menu:
       title: ''
       url: /cv/joshua-white-cv.pdf
       weight: 3
+    - identifier: betr
+      name: betr package
+      post: ''
+      pre: ''
+      title: ''
+      url: /betr/
+      weight: 4
     - identifier: about
       name: About
       post: ''
       pre: ''
       title: ''
       url: /about/
-      weight: 4
+      weight: 5
     - identifier: github
       name: ''
       post: ''
