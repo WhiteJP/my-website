@@ -7,8 +7,6 @@ math:
   enable: true
 ---
 
-#  
-
 I'm a Cognitive & Data Scientist who recently finished his Honours in Psychology at the
 University of Melbourne. I am seeking to undertake PhD studies to fulfill my long standing life
 ambition of joining the academy. I’m interested in using big data, computational
@@ -16,7 +14,12 @@ modeling/methods, and complex data analysis to better understand the mind, parti
 relation to social, moral, legal, and political matters. I currently work as a Data/Cognitive
 Scientist with Cogstate as well as tutor/TA at the University of Melbourne School of
 Psychological Sciences. I have previously held numerous research assistant positions and,
-prior to my career change to cognitive science, I was previously a litigation lawyer
+prior to my career change to cognitive science, I was previously a litigation lawyer.  
+
+Below is my visual resume made with the `VisualResume`
+[package](https://github.com/ndphillips/VisualResume).
+
+![](https://github.com/WhiteJP/CV/blob/master/man/figures/README-unnamed-chunk-2-1.png)
 
 # About this website
 
