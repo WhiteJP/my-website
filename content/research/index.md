@@ -6,6 +6,20 @@ lightgallery: true
 math:
   enable: true
 ---
+# 2023
+
+### Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impairment and dementia due to Alzheimer’s disease
+
+Journal of Alzheimer's Disease
+
+**Joshua P. White**, Adrian Schembri, Carmen Prenn-Gologranc, Matej Ondrus, Stanislav Katina, Petr Novak, Yen Ying Lim, Chris J. Edgar, Colin L. Masters, & Paul Maruff
+
+
+### [Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impairment and dementia due to Alzheimer’s disease](https://alz.confex.com/alz/2023/meetingapp.cgi/Paper/80278)
+
+Alzheimer's Association International Conference
+
+Paul Maruff, Yen Ying Lim, **Joshua P. White**, Chris J. Edgar
 
 # 2022
 
@@ -36,6 +50,11 @@ International Journal of Environmental Research and Public Health
 
 Paul M. Garrett, Yu Wen Wang, **Joshua P. White**, Yoshihisa Kashima, Simon Dennis, Cheng-Ta Yang
 
+### [Detection of Mild Cognitive Impairment Using In‐clinic and Remote Unsupervised Digital Cognitive Assessment](https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.063091)
+
+Alzheimer's & Dementia  
+
+**Josh White**, Chris J. Edgar, Eric Siemers, Paul Maruff
 
 ### [Response time modelling reveals evidence for multiple, distinct sources of moral decision caution](https://doi.org/10.1016/j.cognition.2022.105026)
 
