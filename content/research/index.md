@@ -8,18 +8,12 @@ math:
 ---
 # 2023
 
-### Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impairment and dementia due to Alzheimer’s disease
+### Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impairment and dementia due to Alzheimer’s disease(https://alz.confex.com/alz/2023/meetingapp.cgi/Paper/80278)
 
 Journal of Alzheimer's Disease
 
 **Joshua P. White**, Adrian Schembri, Carmen Prenn-Gologranc, Matej Ondrus, Stanislav Katina, Petr Novak, Yen Ying Lim, Chris J. Edgar, Colin L. Masters, & Paul Maruff
 
-
-### [Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impairment and dementia due to Alzheimer’s disease](https://alz.confex.com/alz/2023/meetingapp.cgi/Paper/80278)
-
-Alzheimer's Association International Conference
-
-Paul Maruff, Yen Ying Lim, **Joshua P. White**, Chris J. Edgar
 
 # 2022
 
