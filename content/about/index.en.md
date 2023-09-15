@@ -9,14 +9,12 @@ math:
 
 # About me
 
-I'm a Cognitive & Data Scientist who recently finished his Honours in Psychology at the
-University of Melbourne. I am seeking to undertake PhD studies to fulfill my long standing life
-ambition of joining the academy. I’m interested in using big data, computational
+I'm a Computational Cognitive & Social Scientist who recently started his PhD at
+MIT Sloan School of Management. I’m interested in using big data, computational
 modeling/methods, and complex data analysis to better understand the mind, particularly in
-relation to social, moral, legal, and political matters. I currently work as a Data/Cognitive
+relation to social, moral, legal, and political matters. I previously worked as a Data/Cognitive
 Scientist with Cogstate as well as tutor/TA at the University of Melbourne School of
-Psychological Sciences. I have previously held numerous research assistant positions and,
-prior to my career change to cognitive science, I was previously a litigation lawyer.  
+Psychological Sciences. Prior to my career change to cognitive science, I was previously a litigation lawyer.  
 
 Below is my visual resume made with the `VisualResume`
 [package](https://github.com/ndphillips/VisualResume).
