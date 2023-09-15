@@ -8,7 +8,7 @@ math:
 ---
 # 2023
 
-### Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impairment and dementia due to Alzheimer’s disease(https://alz.confex.com/alz/2023/meetingapp.cgi/Paper/80278)
+### [Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impairment and dementia due to Alzheimer’s disease](https://alz.confex.com/alz/2023/meetingapp.cgi/Paper/80278)
 
 Journal of Alzheimer's Disease
 
