@@ -9,12 +9,15 @@ math:
 
 # About me
 
-I'm a Computational Cognitive & Social Scientist who recently started his PhD at
-MIT Sloan School of Management. I’m interested in using big data, computational
-modeling/methods, and complex data analysis to better understand the mind, particularly in
-relation to social, moral, legal, and political matters. I previously worked as a Data/Cognitive
-Scientist with Cogstate as well as tutor/TA at the University of Melbourne School of
-Psychological Sciences. Prior to my career change to cognitive science, I was previously a litigation lawyer.  
+I'm a Computational Cognitive & Social Scientist who recently started his PhD at MIT Sloan School of Management (in the Marketing group advised by Dave Rand and Rahul Bhui). My work broadly focuses on three areas: the computational underpinnings of human moral cognition, how people's moral values and deeply held beliefs can change over time (and how we can predict and influence these changes; i.e., *moral persuasion*), and decision-making more generally. 
+
+My work on human moral cognition generally focuses on 'descriptive contractualism', the theory that moral cognition is fundamentally about (actual or hypothetical) agreement between agents, and ensuring outcomes are to their mutual benefit. Here, I use computational cognitive models, experiments, and concepts from game theory to understand how people make third party moral judgement, engage in moral behavior, and how moral norms develop.
+
+My work on moral persuasion, uses computational social science techniques, like large language models, to understand the degree to which people's moral values can be influenced by persuasive messages. A focus here is understanding to what degree these deeply held beliefs and values can be changed by rational argumentation. 
+
+My work on decision making focuses on how people draw inferences from social information, using experiments and Bayesian cognitive models. 
+
+I previously worked as a Data/Cognitive Scientist with Cogstate as well as tutor/TA at the University of Melbourne School of Psychological Sciences. Prior to my career change to cognitive science, I was previously a litigation lawyer.  
 
 Below is my visual resume made with the `VisualResume`
 [package](https://github.com/ndphillips/VisualResume).
