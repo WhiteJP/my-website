@@ -114,8 +114,6 @@ params:
     title:
       logo: ''
       name: Joshua P White
-      post: <i class="fa-solid fa-code"></i>
-      pre: <i class="fa-sharp fa-solid fa-graduation-cap"></i>
       typeit: no
   home:
     posts:
