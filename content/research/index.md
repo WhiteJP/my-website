@@ -6,6 +6,16 @@ lightgallery: true
 math:
   enable: true
 ---
+
+# 2024 
+
+### [Moral flexibility in applying queuing norms can be explained by contractualist principles and game-theoretic considerations](https://escholarship.org/uc/item/2rg5p0ng)
+
+Proceedings of the 46th Annual Meeting of the Cognitive Science Society
+
+**Joshua P. White**, Rahul Bhui, Fiery Cushman, Josh Tenenbaum, Sydney Levine
+
+
 # 2023
 
 ### [Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impairment and dementia due to Alzheimer’s disease](https://alz.confex.com/alz/2023/meetingapp.cgi/Paper/80278)
