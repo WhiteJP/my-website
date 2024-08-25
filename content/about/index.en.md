@@ -22,7 +22,7 @@ I previously worked as a Data/Cognitive Scientist with Cogstate as well as tutor
 Below is my visual resume made with the `VisualResume`
 [package](https://github.com/ndphillips/VisualResume).
 
-{{< figure src="https://github.com/WhiteJP/CV/blob/master/man/figures/README-visual-resume-1.png?raw=true" title="VisualResume" >}}
+{{< figure src="https://github.com/WhiteJP/CV/blob/master/man/figures/README-visual-resume-1.png" title="VisualResume" >}}
 
 # About this website
 
