@@ -17,7 +17,7 @@ My work on moral persuasion, uses computational social science techniques, like 
 
 My work on decision making focuses on how people draw inferences from social information, using experiments and Bayesian cognitive models. 
 
-I previously worked as a Data/Cognitive Scientist with Cogstate as well as tutor/TA at the University of Melbourne School of Psychological Sciences. Prior to my career change to cognitive science, I was previously a litigation lawyer.  
+I previously worked as a Data/Cognitive Scientist with Cogstate as well as tutor/TA and Research Assistant at the University of Melbourne School of Psychological Sciences. Prior to my career change to cognitive science, I was previously a litigation lawyer.  
 
 Below is my visual resume made with the `VisualResume`
 [package](https://github.com/ndphillips/VisualResume).
