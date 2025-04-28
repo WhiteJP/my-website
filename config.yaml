@@ -41,27 +41,20 @@ menu:
       title: ''
       url: /cv/joshua-white-cv.pdf
       weight: 3
-    - identifier: betr
-      name: betr package
-      post: ''
-      pre: ''
-      title: ''
-      url: /betr/
-      weight: 4
     - identifier: about
       name: About
       post: ''
       pre: ''
       title: ''
       url: /about/
-      weight: 5
+      weight: 4
     - identifier: github
       name: ''
       post: ''
       pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
       title: GitHub
       url: https://github.com/WhiteJP/my-website
-      weight: 6
+      weight: 5
 params:
   analytics:
     enable: no
