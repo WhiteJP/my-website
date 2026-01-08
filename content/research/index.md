@@ -7,6 +7,29 @@ math:
   enable: true
 ---
 
+
+# 2026
+
+### [Minds, morality, and the red hand rule: facilitating resource-rational agreement through policy]()
+
+Forthcoming in Behavioral and Brain Sciences 
+
+**Joshua P. White** and Rahul Bhui
+
+# 2025 
+
+### [Persuading Voters using Human-AI Dialogues](https://doi.org/10.1038/s41586-025-09771-9)
+
+Nature 
+
+Hause Lin, Gabriela Czarnek, Ben Lewis, **Joshua P. White**, Adam Berinsky, Thomas Costello, Gordon Pennycook, David G. Rand
+
+### [Increasing the effectiveness of charitable giving using human-AI dialogues](https://osf.io/preprints/psyarxiv/6cyn4_v1)
+
+PsyArXiv
+
+**Joshua P. White**, Carter Allen, Lucius Caviola, Thomas Costello, David G. Rand
+
 # 2024 
 
 ### [Moral flexibility in applying queuing norms can be explained by contractualist principles and game-theoretic considerations](https://escholarship.org/uc/item/2rg5p0ng)
@@ -15,8 +38,13 @@ Proceedings of the 46th Annual Meeting of the Cognitive Science Society
 
 **Joshua P. White**, Rahul Bhui, Fiery Cushman, Josh Tenenbaum, Sydney Levine
 
-
 # 2023
+
+### [Ambiguity attitudes in qualitative contexts: The role of prior beliefs](https://doi.org/10.1002/bdm.2292)
+
+Journal of Behavioral Decision Making
+
+**Joshua P. White**, Andrew Perfors
 
 ### [Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impairment and dementia due to Alzheimer’s disease](https://alz.confex.com/alz/2023/meetingapp.cgi/Paper/80278)
 
@@ -29,16 +57,9 @@ Journal of Alzheimer's Disease
 
 ### [COVID-19, culture, and the privacy calculus: factors predicting the cross-cultural acceptance and uptake of contact tracing technologies](https://psyarxiv.com/zeqn7/)
 
-Submitted to PNAS Nexus
+PsyArXiv
 
 Paul M. Garrett, **Joshua P. White**, Yin Luo, Simon Dennis, Nicholas Geard, Daniel R. Little, Lewis Mitchell, Andrew Perfors, Martin Tomko, Giulia Andrighetto, Andrea Guido, Takashi Kusumi, Ralph Herwig, Stefan Herzog, Anastasia Kozyreva, Phillipp Lorenz-Spreen, Thorsten Pachur, Shulan Hsieh, Yi-Chan Lee, Cheng-Ta Yang, Yasmina Okan, Elena Maria Andrade Fernandez, Luis Miguel Velay Vivel, Klaus Oberauer, Robert Goldstone, Stephan Lewandowsky, Yoshihisa Kashima
-
-
-### [Ambiguity attitudes in qualitative contexts: The role of prior beliefs](https://doi.org/10.1002/bdm.2292)
-
-Journal of Behavioral Decision Making
-
-**Joshua P. White**, Andrew Perfors
 
 
 ### [Papers please: Predictive factors for national and international COVID-19 immunity and vaccination passport uptake as determined by representative surveys](https://doi.org/10.2196/32969)
@@ -46,7 +67,6 @@ Journal of Behavioral Decision Making
 JMIR Public Health and Surveillance
 
 Paul M. Garrett, **Joshua P. White**, Simon Dennis, Stephan Lewandowsky, Cheng-Ta Yang, Yasmina Okan, Andrew Perfors, Daniel Little, Anastasia Kozyreva, Philipp Lorenz-Spreen, Takashi Kusumi, and Yoshihisa Kashima
-
 
 ### [High acceptance for COVID-19 tracing technologies in Taiwan: A nationally representative survey analysis](https://doi.org/10.3390/ijerph19063323)
 
